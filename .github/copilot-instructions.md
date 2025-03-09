@@ -1,0 +1,25 @@
+## General Principles
+- Write code that is **readable, maintainable and well-structured**.
+- Follow the ** DRY (Don't Repeat Yourself) principle** to avoid redundancy.
+- Use **descriptive variable and function names** (e.g., `calculate_total` instead of `calc`).
+- Keep code ** simple and concise** while ensuring clarity-**avoid over-engineering**.
+- Use Collections and Generics:
+    - Prefer using collections like List, Set, and Map over arrays.
+    - Use generics to ensure type safety.
+- Avoid Magic Numbers:
+    - Use constants instead of hardcoding numbers.
+    - Handle Exceptions Properly:
+- Use try-catch blocks to handle exceptions and provide meaningful error messages.
+- Use Collections and Generics:
+    - Prefer using collections like List, Set, and Map over arrays.
+    - Use generics to ensure type safety.
+- Use Design Patterns:
+    - Apply appropriate design patterns to solve common problems.
+- Write Unit Tests:
+    - Ensure your code is covered by unit tests to verify its correctness.
+- Optimize Imports:
+    - Only import the classes you need.
+- Use Access Modifiers:
+    - Use private, protected, and public access modifiers appropriately to encapsulate your code.
+- Do not use multimodule project 
+- When converting multimodule project to single module project, move code to packages
