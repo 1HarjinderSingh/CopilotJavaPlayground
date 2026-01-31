@@ -1,0 +1,19 @@
+Role: Act as a Principal Systems Architect and Creative Lead. Objective: Create a high-fidelity, 3D isometric layered architecture diagram illustrating an "AI-Augmented SDLC." The style must be professional, futuristic, and highly polished, suitable for a C-suite presentation.
+Architectural Layering (Top to Bottom):
+The Overarching Interface Layer: * A floating, semi-transparent glass-morphism pane that spans the entire width of the diagram.
+Label: "Developer Portal (Unified Interaction Hub)".
+Include glowing, high-detail icons for the Story Writer Agent and a ChatBot, showing they are the entry points for all SDLC personas.
+The Agentic SDLC Execution Layer: * A thick, modular 3D platform divided into six distinct, connected blocks representing: Planning, Design, Development, Testing, Build & Deploy, and Maintenance.
+Planning: Show "Story Writer Agent" facilitating PMs and Scrum Masters.
+Design: Show "DevY Architect Agent" generating artifacts.
+Development: Feature "DevY Agent" inside IDEs, alongside "Cursor" and "Devin/Copilot" as autonomous coding agents.
+Testing: Show "Test Agent" generating functional cases.
+Build & Deploy: Show "Pipeline Agent" and "Compliance Agent" as gatekeepers.
+Maintenance: Show "Watcher Agent" monitoring logs.
+The Foundational Context Layer: * A solid, glowing base layer labeled "ComponentSpaces (Enterprise Context Engine & Knowledge Graph)".
+Visualized as a neural mesh or glowing grid that acts as the data source.
+Use vertical beams of light (data streams) rising from this base to "power" the agents in the layers above, replacing messy connector lines.
+Visual Aesthetic & Finish:
+Palette: Soothing deep blues, frosted whites, and "Electric Teal" accents for AI components.
+Perspective: Front-right 3D isometric view.
+Quality: Crisp edges, soft ambient occlusion shadows, and a clean, neutral background. Use professional sans-serif typography for all labels.
